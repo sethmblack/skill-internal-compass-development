@@ -3,8 +3,9 @@ name: internal-compass-development
 description: Develop internalized judgment so that external validation becomes unnecessary--the hands execute, but the eye judges.
 license: MIT
 metadata:
+  version: 1.0.4248
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - internal-compass-development
 - structure
